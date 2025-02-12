@@ -136,6 +136,9 @@
         <mxCell id="2rMHzWM-z_1OdCPlIjtP-64" value="" style="image;html=1;image=img/lib/clip_art/networking/Firewall_128x128.png" vertex="1" parent="1">
           <mxGeometry x="732.5" y="387.9" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="2rMHzWM-z_1OdCPlIjtP-70" value="&amp;nbsp; &amp;nbsp;172.18.14.180/186/187" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
