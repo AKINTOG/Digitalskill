@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2rMHzWM-z_1OdCPlIjtP-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="2rMHzWM-z_1OdCPlIjtP-6" target="2rMHzWM-z_1OdCPlIjtP-31">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="2rMHzWM-z_1OdCPlIjtP-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2rMHzWM-z_1OdCPlIjtP-6">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="780" y="390" as="targetPoint" />
@@ -64,12 +61,12 @@
           <mxGeometry x="200" y="52" width="200" height="288" as="geometry" />
         </mxCell>
         <mxCell id="2rMHzWM-z_1OdCPlIjtP-19" value="Mobile APP API&lt;div&gt;192.168.61.17&lt;/div&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="235" y="70" width="140" height="180" as="geometry" />
+          <mxGeometry x="235" y="70" width="140" height="210" as="geometry" />
         </mxCell>
         <mxCell id="2rMHzWM-z_1OdCPlIjtP-20" value="Login" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2rMHzWM-z_1OdCPlIjtP-19">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2rMHzWM-z_1OdCPlIjtP-21" value="Sign-up" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2rMHzWM-z_1OdCPlIjtP-19">
+        <mxCell id="2rMHzWM-z_1OdCPlIjtP-21" value="Onboarding" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2rMHzWM-z_1OdCPlIjtP-19">
           <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2rMHzWM-z_1OdCPlIjtP-22" value="Account Opening" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2rMHzWM-z_1OdCPlIjtP-19">
@@ -78,8 +75,11 @@
         <mxCell id="2rMHzWM-z_1OdCPlIjtP-23" value="Transfer" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2rMHzWM-z_1OdCPlIjtP-19">
           <mxGeometry y="120" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2rMHzWM-z_1OdCPlIjtP-24" value="Account Opening" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2rMHzWM-z_1OdCPlIjtP-19">
+        <mxCell id="2rMHzWM-z_1OdCPlIjtP-24" value="Bills Payment" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2rMHzWM-z_1OdCPlIjtP-19">
           <mxGeometry y="150" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2rMHzWM-z_1OdCPlIjtP-74" value="Others" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2rMHzWM-z_1OdCPlIjtP-19">
+          <mxGeometry y="180" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2rMHzWM-z_1OdCPlIjtP-25" value="Auth Serv" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.access_control;" vertex="1" parent="1">
           <mxGeometry x="475" y="280" width="50" height="50" as="geometry" />
@@ -141,6 +141,24 @@
         </mxCell>
         <mxCell id="2rMHzWM-z_1OdCPlIjtP-70" value="&amp;nbsp; &amp;nbsp;172.18.14.180/186/187" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="610" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2rMHzWM-z_1OdCPlIjtP-76" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="506.08000000000004" y="520" width="155" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="2rMHzWM-z_1OdCPlIjtP-77" value="Finacle WebService" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="521.08" y="540" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="2rMHzWM-z_1OdCPlIjtP-78" value="Account Enquiry&amp;nbsp;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2rMHzWM-z_1OdCPlIjtP-77">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2rMHzWM-z_1OdCPlIjtP-79" value="Get Accounts by CIF" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2rMHzWM-z_1OdCPlIjtP-77">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2rMHzWM-z_1OdCPlIjtP-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="2rMHzWM-z_1OdCPlIjtP-79" target="2rMHzWM-z_1OdCPlIjtP-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2rMHzWM-z_1OdCPlIjtP-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.423;entryY=0.026;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2rMHzWM-z_1OdCPlIjtP-6" target="2rMHzWM-z_1OdCPlIjtP-76">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
