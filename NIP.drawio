@@ -1,9 +1,30 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="27.0.6">
   <diagram name="Page-1" id="kbE603rXMth3loFeQd9H">
-    <mxGraphModel>
+    <mxGraphModel dx="778" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="8SlbRGo-0mH1Eb3ttrgN-1" value="Mobile App" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4A88FF;" vertex="1" parent="1">
+          <mxGeometry x="30" y="10" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8SlbRGo-0mH1Eb3ttrgN-2" value="CIB" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4A88FF;" vertex="1" parent="1">
+          <mxGeometry x="110" y="10" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8SlbRGo-0mH1Eb3ttrgN-3" value="USSD" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4A88FF;" vertex="1" parent="1">
+          <mxGeometry x="240" y="10" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8SlbRGo-0mH1Eb3ttrgN-4" value="K2-NIP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4A88FF;" vertex="1" parent="1">
+          <mxGeometry x="320" y="10" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8SlbRGo-0mH1Eb3ttrgN-5" value="RIB" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4A88FF;" vertex="1" parent="1">
+          <mxGeometry x="180" y="10" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8SlbRGo-0mH1Eb3ttrgN-6" value="Agency Banking" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4A88FF;" vertex="1" parent="1">
+          <mxGeometry x="400" y="10" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8SlbRGo-0mH1Eb3ttrgN-7" value="Third Party Transfer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4A88FF;" vertex="1" parent="1">
+          <mxGeometry x="530" y="10" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
