@@ -67,7 +67,7 @@
           <mxGeometry x="171" y="20" width="99" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pUdEh6o4R6Ci44slLrzv-4" value="Consqldb01" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="180.5" y="65" width="80" height="35" as="geometry" />
+          <mxGeometry x="180.5" y="60" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pUdEh6o4R6Ci44slLrzv-5" value="CoreApi: 172.18.14.xx" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="250" width="140" height="120" as="geometry" />
