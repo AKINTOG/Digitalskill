@@ -88,6 +88,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="pUdEh6o4R6Ci44slLrzv-10" value="&lt;span data-teams=&quot;true&quot;&gt;172.18.18.15&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pUdEh6o4R6Ci44slLrzv-11" value="&lt;span data-teams=&quot;true&quot;&gt;192.168.30.15&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="180" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
